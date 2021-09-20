@@ -1,2 +1,7 @@
-# minesweeper-source-code
-the minesweeper source code from the windows nt 4.0 leak
+# Minesweeper Source Code
+The minesweeper source code from the Windows NT 4.0 leak
+
+
+
+
+microsoft dont sue pls
